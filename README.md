@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isNonNegativeNumber from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@deno/mod.js';
+import isNonNegativeNumber from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@deno/mod.js';
+import { isObject, isPrimitive } from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@v0.2.1-deno/mod.js';
 ```
 
 #### isNonNegativeNumber( value )
@@ -122,7 +122,7 @@ bool = isNonNegativeNumber.isObject( new Number( 3.0 ) );
 
 ```javascript
 import Number from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-ctor@deno/mod.js';
-import isNonNegativeNumber from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@deno/mod.js';
+import isNonNegativeNumber from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-nonnegative-number@v0.2.1-deno/mod.js';
 
 var bool = isNonNegativeNumber( 5.0 );
 // returns true
