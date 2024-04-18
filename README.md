@@ -170,6 +170,8 @@ bool = isNonNegativeNumber( null );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/assert-is-nonnegative-finite`][@stdlib/assert/is-nonnegative-finite]</span><span class="delimiter">: </span><span class="description">test if a value is a number having a nonnegative finite value.</span>
+-   <span class="package-name">[`@stdlib/assert-is-nonnegative-integer`][@stdlib/assert/is-nonnegative-integer]</span><span class="delimiter">: </span><span class="description">test if a value is a number having a nonnegative integer value.</span>
 -   <span class="package-name">[`@stdlib/assert-is-number`][@stdlib/assert/is-number]</span><span class="delimiter">: </span><span class="description">test if a value is a number.</span>
 
 </section>
@@ -249,6 +251,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-nonnegative-number/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/assert/is-nonnegative-finite]: https://github.com/stdlib-js/assert-is-nonnegative-finite
+
+[@stdlib/assert/is-nonnegative-integer]: https://github.com/stdlib-js/assert-is-nonnegative-integer
 
 [@stdlib/assert/is-number]: https://github.com/stdlib-js/assert-is-number
 
